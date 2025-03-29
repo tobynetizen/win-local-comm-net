@@ -1,7 +1,7 @@
 ## > Local Communications Network
 A console-based chat server hosted locally with optional database integration using MySQL/Connector C++
 
-### Creeping Featurism
+### TODO
 **General**
 - [ ] Syntactic refactoring
 - [ ] Nickname registration
