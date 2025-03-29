@@ -9,7 +9,7 @@ A console-based chat server hosted locally with optional database integration us
 
 **Server**
 - [ ] MySQL backporting
-- [ ] Variable connection type handling (Rlogin, SSH, Telet, etc.)
+- [ ] Variable connection type handling (Rlogin, SSH, Telnet, etc.)
 - [ ] GUID Module
 
 **Client**
