@@ -15,3 +15,6 @@ A console-based chat server hosted locally with optional database integration us
 **Client**
 - [ ] Information logging
 - [ ] TUI integration
+
+## License
+[MIT](https://raw.githubusercontent.com/tobynetizen/win-local-comm-net/refs/heads/master/LICENSE)
