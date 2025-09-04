@@ -52,8 +52,8 @@ std::tuple<std::string, std::string> deserializeData(const std::string& serializ
     std::istringstream iStringStream(serializedData);
     std::string firstIndex, secondIndex;
 
-    std::getline(iStringStream, firstIndex, ',');
-    std::getline(iStringStream, secondIndex, ',');
+    std::getline(iStringStream, firstIndex, '|');
+    std::getline(iStringStream, secondIndex, '|');
 
     return std::make_tuple(firstIndex, secondIndex);
 }

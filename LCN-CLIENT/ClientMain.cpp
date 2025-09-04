@@ -53,7 +53,7 @@ int main(int argc, char* argv[])
 std::string serializeData(const std::tuple<std::string, std::string>& tupleData)
 {
     std::ostringstream oStringStream;
-    oStringStream << std::get<0>(tupleData) << ',' << std::get<1>(tupleData);
+    oStringStream << std::get<0>(tupleData) << '|' << std::get<1>(tupleData);
     return oStringStream.str();
 }
 
