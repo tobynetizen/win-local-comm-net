@@ -1,5 +1,7 @@
 ## Local Communications Network
-A monolithic and ephemeral console-based chat server hosted on the loopback adapter.
+A monolithic and ephemeral console-based chat server hosted on the loopback adapter. <br />
+<br />
+![lcn](lcn.gif)
 
 ### Agenda
 - [ ] Nickname registration
